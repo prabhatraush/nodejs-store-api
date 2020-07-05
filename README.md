@@ -3,7 +3,7 @@ A nodejs application which returns total no of orders placed and average bill su
 
 # get methods
 two get methods implemented, we can see the result at below
-'''
+```
 localhost:4000/avgBill
 localhost:4000/updateOrders
-'''
+```
